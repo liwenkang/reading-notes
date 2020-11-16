@@ -1,0 +1,34 @@
+﻿<html><body>
+<div id='panel' style="background:red;width:200px;height:200px">
+
+</div>
+<script>
+    function throttle(fn, threshhold = 1000) {
+        var timer;
+        var start = new Date();
+
+        return function () {
+            clearTimeout(timer);
+            var currentTime = new Date();
+            var args = arguments;
+            if (currentTime - start >= threshhold) {
+                // 可以执行
+                fn.apply(this, args);
+                start = currentTime;
+            } else {
+                // 不能立即执行,但可以等等
+                timer = setTimeout(() => {
+                    fn.apply(this, args);
+                }, threshhold);
+            }
+        };
+    }
+    var mousemove = throttle(function(e) {
+        console.log(new Date())
+    });
+
+    // 绑定监听
+    document.querySelector("#panel").addEventListener('mousemove', mousemove);
+</script>
+</body>
+</html>
