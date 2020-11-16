@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f701df25-4603-47c9-9dbb-f60e80c95f31" name="Default Changelist" comment="" />
+    <list default="true" id="f701df25-4603-47c9-9dbb-f60e80c95f31" name="Default Changelist" comment="docs: initial" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,25 +39,45 @@
       <updated>1605492797362</updated>
       <workItem from="1605492798720" duration="1880000" />
       <workItem from="1605501939693" duration="533000" />
-      <workItem from="1605505917214" duration="71000" />
+      <workItem from="1605505917214" duration="381000" />
     </task>
+    <task id="LOCAL-00001" summary="docs: initial">
+      <created>1605506148449</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605506148449</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="docs: initial" />
+    <option name="LAST_COMMIT_MESSAGE" value="docs: initial" />
   </component>
   <component name="WindowStateProjectService">
     <state x="439" y="258" key="#Notifications" timestamp="1605505987750">
       <screen x="0" y="25" width="1440" height="804" />
     </state>
     <state x="439" y="258" key="#Notifications/0.25.1440.804@0.25.1440.804" timestamp="1605505987750" />
-    <state x="579" y="330" key="Github.ShareDialog" timestamp="1605505971404">
+    <state x="579" y="330" key="Github.ShareDialog" timestamp="1605506034430">
       <screen x="0" y="25" width="1440" height="804" />
     </state>
-    <state x="579" y="330" key="Github.ShareDialog/0.25.1440.804@0.25.1440.804" timestamp="1605505971404" />
+    <state x="579" y="330" key="Github.ShareDialog/0.25.1440.804@0.25.1440.804" timestamp="1605506034430" />
     <state x="229" y="61" width="1193" height="728" key="SettingsEditor" timestamp="1605505849093">
       <screen x="0" y="25" width="1440" height="804" />
     </state>
     <state x="229" y="61" width="1193" height="728" key="SettingsEditor/0.25.1440.804@0.25.1440.804" timestamp="1605505849093" />
+    <state x="320" y="158" key="Vcs.Push.Dialog.v2" timestamp="1605506048308">
+      <screen x="0" y="25" width="1440" height="804" />
+    </state>
+    <state x="320" y="158" key="Vcs.Push.Dialog.v2/0.25.1440.804@0.25.1440.804" timestamp="1605506048308" />
+    <state x="520" y="339" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605506161168">
+      <screen x="0" y="25" width="1440" height="804" />
+    </state>
+    <state x="520" y="339" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1440.804@0.25.1440.804" timestamp="1605506161168" />
   </component>
 </project>
