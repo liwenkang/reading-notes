@@ -95,7 +95,6 @@ console.log(instance.bar) // 可以发现,构造函数内的 this 会绑定到�
 
 // new 操作符都做了什么
 创建了一个空对象
-
 ```
 
 ### 2. 闭包
