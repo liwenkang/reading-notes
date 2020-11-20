@@ -261,6 +261,6 @@ console.log(bar.call(obj2));
 ```
 
 待办事项:
-1. 解决疑问
+1. 解决疑问(执行顺序和 __proto__ 和 prototype 的联系和区别)
 2. 实现一个简易版 bind
 3. 实现 es5-shim 版本的 bind
